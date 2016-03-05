@@ -8,14 +8,21 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
 
+// we implement the onClickListener - so this means there
+//will be an onClick method defined for ALL the views later
+//in the onClick method
 public class MainActivity extends Activity implements OnClickListener {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+
 		View table = findViewById(R.id.table);
 		table.setOnClickListener(this);
+
+		//we add clicklisteners, this, to all our fields
 		View field = findViewById(R.id.felt1);
 		field.setOnClickListener(this);
 		
@@ -61,12 +68,15 @@ public class MainActivity extends Activity implements OnClickListener {
 		{
 			ImageView image = (ImageView) view;
 			//TODO something here
+			//you would to check if the field is empty
+			//before putting something there
 			System.out.println("field 1 pressed");
 			
 			//An example of how to set the image
 			//you need to check if the field is empty
 			//and also if the turn is X or O
 			image.setImageResource(R.drawable.kryds);
+			//then you need to update your int[] array also
 		}
 	}
 }
