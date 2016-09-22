@@ -69,8 +69,9 @@ public class MainActivity extends Activity implements OnClickListener {
 			ImageView image = (ImageView) view;
 			//TODO something here
 			//you would to check if the field is empty
-			//before putting something there
+			//before putting something there....
 			System.out.println("field 1 pressed");
+
 			
 			//An example of how to set the image
 			//you need to check if the field is empty

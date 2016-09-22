@@ -2,25 +2,31 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        is-multidex="false"
+        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_52db72e2dcb4ab5f00cd8e19ef65db6f68824121.jar" />
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_b4317115f32fd7d0cea63dd77ca3608310c109a2.jar" />
     </item>
     <item
-        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_85a0919a9258501ff68494a7b220aee942b01292.jar" />
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_c002254d83fd8a14e2a180066ffd5c93fdc4a7af.jar" />
     </item>
     <item
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_137a130b08a2d938ceebefb9547b5112c0937cba.jar" />
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_4dcedb5a2b1109f953ed23203963a7b617aa63dd.jar" />
     </item>
 
 </items>

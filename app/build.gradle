@@ -6,8 +6,10 @@ android {
 
     defaultConfig {
         applicationId "org.example.tictactoe"
-        minSdkVersion 15
-        targetSdkVersion 21
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode = 1
+        versionName = "1.0"
     }
 
     buildTypes {
@@ -19,5 +21,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.android.support:support-v4:23.0.0'
 }
