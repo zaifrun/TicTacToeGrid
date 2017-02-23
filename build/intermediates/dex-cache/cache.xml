@@ -3,12 +3,120 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_cfcef8fd61a32ae1f1133a151c023bee0a77ef6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_db8637d04c70b94bff9301969e1927b4e02dd15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_1dd633a1960b60e8e0867bd4c4deead9a4ca4594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_837236eae26950fa6b756ab2505927825cdbee06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_9f620e1a1d64589bff2a4764db917362d6102ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_4dcedb5a2b1109f953ed23203963a7b617aa63dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
         <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_b4317115f32fd7d0cea63dd77ca3608310c109a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_e144596938fd886d0bf72fb69c21125d7c632165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c8cfc1f5134e0fc23efd18a8750ccf488e64756a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_c9485f43fae3bd32827e3226bb84c8642b4bf5d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1568915152f9f324d83c1f0405b4aa43a829f13e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_2aa3ce6f03909a939928464dc8e4008e9a470b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_1fdd4b385189aa12efed5bb5533e1bbaf8040fee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,12 +129,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeSolution\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_4dcedb5a2b1109f953ed23203963a7b617aa63dd.jar" />
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_fa185d2b010d2066b824a1ed6ec44044ddd14b38.jar" />
     </item>
 
 </items>
