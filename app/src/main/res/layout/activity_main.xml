@@ -29,6 +29,8 @@
         android:layout_rowWeight="1"
         android:layout_row="0"
         android:src="@drawable/blank" />
+    <!-- NB: the layout_columnWeight and layout_rowWeight are only
+         supported on API level 21 (Android 5.0) and above -->
 
           <ImageView
         android:id="@+id/felt2"
@@ -38,7 +40,6 @@
         android:layout_row="0"
         android:layout_rowWeight="1"
         android:layout_columnWeight="1"
-
         android:layout_height="0dp"
         android:src="@drawable/kryds" />
         
@@ -65,28 +66,27 @@
         android:layout_height="0dp"
         android:src="@drawable/kryds" />
 
-          <ImageView
-              android:layout_column="1"
-              android:layout_row="1"
-        android:id="@+id/felt5"
-        android:scaleType="fitXY"
-              android:layout_width="0dp"
-              android:layout_columnWeight="1"
-        android:layout_height="0dp"
-              android:layout_rowWeight="1"
-
-              android:src="@drawable/blank" />
+        <ImageView
+            android:layout_column="1"
+            android:layout_row="1"
+            android:id="@+id/felt5"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:src="@drawable/blank" />
 
            <ImageView
-        android:id="@+id/felt6"
-        android:layout_column="2"
-        android:layout_row="1"
-        android:scaleType="fitXY"
-        android:layout_width="0dp"
-        android:layout_columnWeight="1"
-        android:layout_height="0dp"
-        android:layout_rowWeight="1"
-        android:src="@drawable/bolle" />    
+            android:id="@+id/felt6"
+            android:layout_column="2"
+            android:layout_row="1"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:src="@drawable/bolle" />
 
        
        <ImageView
