@@ -1,3 +1,16 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="@string/hello_world"
+        android:layout_height="wrap_content"/>
+
+
 <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,7 +21,7 @@
 
         <ImageView
         android:id="@+id/felt1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:scaleType="fitXY"
         android:layout_column="0"
         android:layout_width="0dp"
@@ -26,7 +39,7 @@
         android:layout_rowWeight="1"
         android:layout_columnWeight="1"
 
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:src="@drawable/kryds" />
         
         <ImageView
@@ -37,7 +50,7 @@
         android:layout_row="0"
         android:layout_width="0dp"
         android:layout_rowWeight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:src="@drawable/bolle" />    
 
       
@@ -49,7 +62,7 @@
         android:layout_width="0dp"
         android:layout_rowWeight="1"
         android:layout_columnWeight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:src="@drawable/kryds" />
 
           <ImageView
@@ -59,7 +72,7 @@
         android:scaleType="fitXY"
               android:layout_width="0dp"
               android:layout_columnWeight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
               android:layout_rowWeight="1"
 
               android:src="@drawable/blank" />
@@ -71,7 +84,7 @@
         android:scaleType="fitXY"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_rowWeight="1"
         android:src="@drawable/bolle" />    
 
@@ -84,7 +97,7 @@
            android:layout_width="0dp"
            android:layout_columnWeight="1"
            android:scaleType="fitXY"
-           android:layout_height="wrap_content"
+           android:layout_height="0dp"
            android:src="@drawable/blank" />
 
           <ImageView
@@ -95,7 +108,7 @@
         android:layout_columnWeight="1"
         android:scaleType="fitXY"
         android:layout_rowWeight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:src="@drawable/bolle" />
 
            <ImageView
@@ -106,7 +119,8 @@
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:src="@drawable/kryds" />    
 
 </GridLayout>
+</LinearLayout>
