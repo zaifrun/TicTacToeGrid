@@ -67,14 +67,14 @@ public class MainActivity extends Activity implements OnClickListener {
 		if (view.getId()==R.id.felt1)
 		{
 			ImageView image = (ImageView) view;
-			//TODO something here
-			//you would to check if the field is empty
-			//before putting something there....
+
 			System.out.println("field 1 pressed");
 
-			
+			//TODO something here
+
 			//An example of how to set the image
 			//you need to check if the field is empty
+			//before setting a new image
 			//and also if the turn is X or O
 			image.setImageResource(R.drawable.kryds);
 			//then you need to update your int[] array also
