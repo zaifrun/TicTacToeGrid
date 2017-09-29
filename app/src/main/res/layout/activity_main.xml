@@ -24,10 +24,10 @@
         android:layout_height="0dp"
         android:scaleType="fitXY"
         android:layout_column="0"
-        android:layout_width="0dp"
+            android:layout_row="0"
+            android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
-        android:layout_row="0"
         android:src="@drawable/blank" />
     <!-- NB: the layout_columnWeight and layout_rowWeight are only
          supported on API level 21 (Android 5.0) and above -->
@@ -120,7 +120,7 @@
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
         android:layout_height="0dp"
-        android:src="@drawable/kryds" />    
+        android:src="@drawable/blank" />
 
 </GridLayout>
 </LinearLayout>
