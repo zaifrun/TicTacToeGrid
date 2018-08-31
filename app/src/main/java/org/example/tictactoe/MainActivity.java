@@ -2,6 +2,7 @@ package org.example.tictactoe;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -25,10 +26,10 @@ public class MainActivity extends Activity implements OnClickListener {
 		table.setOnClickListener(this);
 
 		//we add clicklisteners, this, to all our fields
-		View field = findViewById(R.id.felt1);
+		View field = findViewById(R.id.field1);
 		field.setOnClickListener(this);
 		
-		field = findViewById(R.id.felt2);
+		field = findViewById(R.id.field2);
 		field.setOnClickListener(this);
 		
 		//TODO add click listeners like this for the rest of the imageviews
@@ -66,11 +67,11 @@ public class MainActivity extends Activity implements OnClickListener {
 		// put a "O" and also make sure that you cannot
 		// put a "O" or a "X" if there is already something.
 		
-		if (view.getId()==R.id.felt1)
+		if (view.getId()==R.id.field1)
 		{
 			ImageView image = (ImageView) view;
 
-			System.out.println("field 1 pressed");
+			Log.d("Field_Clicked","field 1 pressed");
 
 			//TODO something here
 
