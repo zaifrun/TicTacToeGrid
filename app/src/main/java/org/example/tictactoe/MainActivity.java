@@ -13,6 +13,8 @@ import android.widget.ImageView;
 //in the onClick method
 public class MainActivity extends Activity implements OnClickListener {
 
+	int turn = 0;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
