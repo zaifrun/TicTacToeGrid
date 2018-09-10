@@ -1,6 +1,5 @@
 package org.example.tictactoe;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -8,11 +7,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
+import android.support.v7.app.AppCompatActivity;
 
 // we implement the onClickListener - so this means there
 //will be an onClick method defined for ALL the views later
 //in the onClick method
-public class MainActivity extends Activity implements OnClickListener {
+public class MainActivity extends AppCompatActivity implements OnClickListener {
 
 	int turn = 0;
 
