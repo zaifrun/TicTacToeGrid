@@ -1,5 +1,6 @@
 package org.example.tictactoe;
 
+import android.media.Image;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -14,7 +15,13 @@ import android.support.v7.app.AppCompatActivity;
 //in the onClick method
 public class MainActivity extends AppCompatActivity implements OnClickListener {
 
-	int turn = 0;
+	 final int KRYDS = 1;
+	 final int BOLLE = 0;
+	 int turn = BOLLE;
+
+
+
+
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
