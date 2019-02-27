@@ -15,8 +15,9 @@ import android.support.v7.app.AppCompatActivity;
 //in the onClick method
 public class MainActivity extends AppCompatActivity implements OnClickListener {
 
-	 final int KRYDS = 1;
-	 final int BOLLE = 0;
+	 final int KRYDS = 2;
+	 final int BOLLE = 1;
+	 final int EMPTY = 0;
 	 int turn = BOLLE;
 
 
